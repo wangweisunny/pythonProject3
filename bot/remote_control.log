@@ -1,0 +1,38 @@
+2025-04-08 14:13:17,876 - Exception: Error reading SSH protocol banner
+2025-04-08 14:13:17,876 - Traceback (most recent call last):
+2025-04-08 14:13:17,876 -   File "C:\Users\windows\.conda\envs\WebshellKiller-master\lib\site-packages\paramiko\transport.py", line 2211, in _check_banner
+2025-04-08 14:13:17,876 -     buf = self.packetizer.readline(timeout)
+2025-04-08 14:13:17,876 -   File "C:\Users\windows\.conda\envs\WebshellKiller-master\lib\site-packages\paramiko\packet.py", line 380, in readline
+2025-04-08 14:13:17,876 -     buf += self._read_timeout(timeout)
+2025-04-08 14:13:17,876 -   File "C:\Users\windows\.conda\envs\WebshellKiller-master\lib\site-packages\paramiko\packet.py", line 609, in _read_timeout
+2025-04-08 14:13:17,877 -     raise EOFError()
+2025-04-08 14:13:17,877 - EOFError
+2025-04-08 14:13:17,878 - 
+2025-04-08 14:13:17,878 - During handling of the above exception, another exception occurred:
+2025-04-08 14:13:17,878 - 
+2025-04-08 14:13:17,878 - Traceback (most recent call last):
+2025-04-08 14:13:17,878 -   File "C:\Users\windows\.conda\envs\WebshellKiller-master\lib\site-packages\paramiko\transport.py", line 2039, in run
+2025-04-08 14:13:17,878 -     self._check_banner()
+2025-04-08 14:13:17,878 -   File "C:\Users\windows\.conda\envs\WebshellKiller-master\lib\site-packages\paramiko\transport.py", line 2215, in _check_banner
+2025-04-08 14:13:17,878 -     raise SSHException(
+2025-04-08 14:13:17,878 - paramiko.ssh_exception.SSHException: Error reading SSH protocol banner
+2025-04-08 14:13:17,878 - 
+2025-04-08 14:13:46,273 - Exception: Error reading SSH protocol banner
+2025-04-08 14:13:46,273 - Traceback (most recent call last):
+2025-04-08 14:13:46,273 -   File "C:\Users\windows\.conda\envs\WebshellKiller-master\lib\site-packages\paramiko\transport.py", line 2211, in _check_banner
+2025-04-08 14:13:46,273 -     buf = self.packetizer.readline(timeout)
+2025-04-08 14:13:46,273 -   File "C:\Users\windows\.conda\envs\WebshellKiller-master\lib\site-packages\paramiko\packet.py", line 380, in readline
+2025-04-08 14:13:46,274 -     buf += self._read_timeout(timeout)
+2025-04-08 14:13:46,274 -   File "C:\Users\windows\.conda\envs\WebshellKiller-master\lib\site-packages\paramiko\packet.py", line 609, in _read_timeout
+2025-04-08 14:13:46,274 -     raise EOFError()
+2025-04-08 14:13:46,274 - EOFError
+2025-04-08 14:13:46,274 - 
+2025-04-08 14:13:46,274 - During handling of the above exception, another exception occurred:
+2025-04-08 14:13:46,274 - 
+2025-04-08 14:13:46,274 - Traceback (most recent call last):
+2025-04-08 14:13:46,274 -   File "C:\Users\windows\.conda\envs\WebshellKiller-master\lib\site-packages\paramiko\transport.py", line 2039, in run
+2025-04-08 14:13:46,274 -     self._check_banner()
+2025-04-08 14:13:46,274 -   File "C:\Users\windows\.conda\envs\WebshellKiller-master\lib\site-packages\paramiko\transport.py", line 2215, in _check_banner
+2025-04-08 14:13:46,274 -     raise SSHException(
+2025-04-08 14:13:46,274 - paramiko.ssh_exception.SSHException: Error reading SSH protocol banner
+2025-04-08 14:13:46,274 - 

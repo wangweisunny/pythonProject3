@@ -1,0 +1,60 @@
+文件: test_files\clean_0.bin
+结果: 未检测到病毒
+
+文件: test_files\clean_1.bin
+结果: 未检测到病毒
+
+文件: test_files\clean_2.bin
+结果: 未检测到病毒
+
+文件: test_files\clean_3.bin
+结果: 未检测到病毒
+
+文件: test_files\clean_4.bin
+结果: 未检测到病毒
+
+文件: test_files\clean_5.bin
+结果: 未检测到病毒
+
+文件: test_files\clean_6.bin
+结果: 未检测到病毒
+
+文件: test_files\clean_7.bin
+结果: 未检测到病毒
+
+文件: test_files\clean_8.bin
+结果: 未检测到病毒
+
+文件: test_files\clean_9.bin
+结果: 未检测到病毒
+
+文件: test_files\infected_0.bin
+结果: 检测到病毒: Virus1
+
+文件: test_files\infected_1.bin
+结果: 检测到病毒: Virus2
+
+文件: test_files\infected_2.bin
+结果: 检测到病毒: Virus3
+
+文件: test_files\infected_3.bin
+结果: 检测到病毒: Virus4
+
+文件: test_files\infected_4.bin
+结果: 检测到病毒: Virus5
+
+文件: test_files\infected_5.bin
+结果: 检测到病毒: Virus6
+
+文件: test_files\infected_6.bin
+结果: 检测到病毒: Virus7
+
+文件: test_files\infected_7.bin
+结果: 检测到病毒: Virus8
+
+文件: test_files\infected_8.bin
+结果: 检测到病毒: Virus4
+
+文件: test_files\infected_9.bin
+结果: 检测到病毒: Virus5
+

